@@ -34,3 +34,6 @@ Tomorrow we’ll have the Decidim association meeting - let’s mention the crea
 ☀️This little community might change a lot about how we work and the progress that Decidim achieves so I invite you to stay connected and actively involved. 
 
 The Notion page from the meeting: https://worried-pump-1cf.notion.site/Pre-Decidim-Fest-workshop-b1695f56b1a24edabc55b7d14a9baa01
+
+### Meeting Minutes 
+- [November 15th 2022](https://github.com/orgs/decidim-ice/discussions/4)
